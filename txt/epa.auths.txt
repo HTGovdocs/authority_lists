@@ -1,7 +1,10 @@
 https://lccn.loc.gov/n2001108550
+https://lccn.loc.gov/n2001129058
 https://lccn.loc.gov/n2002152065
+https://lccn.loc.gov/n2004006653
 https://lccn.loc.gov/n2004016352
 https://lccn.loc.gov/n2004018150
+https://lccn.loc.gov/n2005020275
 https://lccn.loc.gov/n2005032307
 https://lccn.loc.gov/n2005182331
 https://lccn.loc.gov/n2005184018
@@ -15,7 +18,6 @@ https://lccn.loc.gov/n2008016981
 https://lccn.loc.gov/n2008069543
 https://lccn.loc.gov/n2009017054
 https://lccn.loc.gov/n2009180376
-https://lccn.loc.gov/n2009180376
 https://lccn.loc.gov/n2010041908
 https://lccn.loc.gov/n2012010259
 https://lccn.loc.gov/n2012180156
@@ -24,12 +26,12 @@ https://lccn.loc.gov/n2014035307
 https://lccn.loc.gov/n2015025656
 https://lccn.loc.gov/n2015184981
 https://lccn.loc.gov/n50000681
+https://lccn.loc.gov/n50000682
 https://lccn.loc.gov/n50000683
 https://lccn.loc.gov/n50000684
 https://lccn.loc.gov/n50000685
 https://lccn.loc.gov/n50054750
 https://lccn.loc.gov/n50063052
-https://lccn.loc.gov/n50067427
 https://lccn.loc.gov/n50067427
 https://lccn.loc.gov/n77001876
 https://lccn.loc.gov/n77005217
@@ -82,7 +84,9 @@ https://lccn.loc.gov/n78064110
 https://lccn.loc.gov/n78064269
 https://lccn.loc.gov/n78064273
 https://lccn.loc.gov/n78064932
+https://lccn.loc.gov/n78064933
 https://lccn.loc.gov/n78064937
+https://lccn.loc.gov/n78064979
 https://lccn.loc.gov/n78067507
 https://lccn.loc.gov/n78068259
 https://lccn.loc.gov/n78068266
@@ -112,6 +116,7 @@ https://lccn.loc.gov/n79039325
 https://lccn.loc.gov/n79039326
 https://lccn.loc.gov/n79039327
 https://lccn.loc.gov/n79039335
+https://lccn.loc.gov/n79041412
 https://lccn.loc.gov/n79041413
 https://lccn.loc.gov/n79041447
 https://lccn.loc.gov/n79046950
@@ -119,6 +124,8 @@ https://lccn.loc.gov/n79047000
 https://lccn.loc.gov/n79049278
 https://lccn.loc.gov/n79059661
 https://lccn.loc.gov/n79060906
+https://lccn.loc.gov/n79065410
+https://lccn.loc.gov/n79067005
 https://lccn.loc.gov/n79067006
 https://lccn.loc.gov/n79067007
 https://lccn.loc.gov/n79067008
@@ -147,6 +154,7 @@ https://lccn.loc.gov/n79105431
 https://lccn.loc.gov/n79105436
 https://lccn.loc.gov/n79105437
 https://lccn.loc.gov/n79105814
+https://lccn.loc.gov/n79110393
 https://lccn.loc.gov/n79110394
 https://lccn.loc.gov/n79110395
 https://lccn.loc.gov/n79111646
@@ -187,6 +195,7 @@ https://lccn.loc.gov/n80146721
 https://lccn.loc.gov/n80147333
 https://lccn.loc.gov/n80150163
 https://lccn.loc.gov/n80151436
+https://lccn.loc.gov/n80151465
 https://lccn.loc.gov/n80151466
 https://lccn.loc.gov/n80151473
 https://lccn.loc.gov/n80155042
@@ -208,11 +217,13 @@ https://lccn.loc.gov/n81012582
 https://lccn.loc.gov/n81012583
 https://lccn.loc.gov/n81012584
 https://lccn.loc.gov/n81012585
+https://lccn.loc.gov/n81013076
 https://lccn.loc.gov/n81013088
 https://lccn.loc.gov/n81013089
 https://lccn.loc.gov/n81013443
 https://lccn.loc.gov/n81013710
 https://lccn.loc.gov/n81013965
+https://lccn.loc.gov/n81014265
 https://lccn.loc.gov/n81014496
 https://lccn.loc.gov/n81019964
 https://lccn.loc.gov/n81019965
@@ -232,7 +243,9 @@ https://lccn.loc.gov/n81029266
 https://lccn.loc.gov/n81029298
 https://lccn.loc.gov/n81029299
 https://lccn.loc.gov/n81029300
+https://lccn.loc.gov/n81029484
 https://lccn.loc.gov/n81031948
+https://lccn.loc.gov/n81032234
 https://lccn.loc.gov/n81034363
 https://lccn.loc.gov/n81034364
 https://lccn.loc.gov/n81034683
@@ -250,6 +263,7 @@ https://lccn.loc.gov/n81046470
 https://lccn.loc.gov/n81048598
 https://lccn.loc.gov/n81049920
 https://lccn.loc.gov/n81055764
+https://lccn.loc.gov/n81058112
 https://lccn.loc.gov/n81062787
 https://lccn.loc.gov/n81066020
 https://lccn.loc.gov/n81066631
@@ -258,6 +272,7 @@ https://lccn.loc.gov/n81066633
 https://lccn.loc.gov/n81066634
 https://lccn.loc.gov/n81066636
 https://lccn.loc.gov/n81068975
+https://lccn.loc.gov/n81075664
 https://lccn.loc.gov/n81107078
 https://lccn.loc.gov/n81107079
 https://lccn.loc.gov/n81107080
@@ -274,6 +289,7 @@ https://lccn.loc.gov/n81134242
 https://lccn.loc.gov/n81134244
 https://lccn.loc.gov/n81151646
 https://lccn.loc.gov/n82003054
+https://lccn.loc.gov/n82003055
 https://lccn.loc.gov/n82003075
 https://lccn.loc.gov/n82003077
 https://lccn.loc.gov/n82005127
@@ -289,10 +305,13 @@ https://lccn.loc.gov/n82023829
 https://lccn.loc.gov/n82035700
 https://lccn.loc.gov/n82043007
 https://lccn.loc.gov/n82043784
+https://lccn.loc.gov/n82043803
 https://lccn.loc.gov/n82055518
 https://lccn.loc.gov/n82064495
 https://lccn.loc.gov/n82072545
 https://lccn.loc.gov/n82074772
+https://lccn.loc.gov/n82075888
+https://lccn.loc.gov/n82075889
 https://lccn.loc.gov/n82078983
 https://lccn.loc.gov/n82096681
 https://lccn.loc.gov/n82100835
@@ -319,6 +338,7 @@ https://lccn.loc.gov/n82245009
 https://lccn.loc.gov/n82245010
 https://lccn.loc.gov/n82245019
 https://lccn.loc.gov/n82245020
+https://lccn.loc.gov/n82253824
 https://lccn.loc.gov/n82259614
 https://lccn.loc.gov/n82259629
 https://lccn.loc.gov/n82259633
@@ -335,6 +355,7 @@ https://lccn.loc.gov/n83128647
 https://lccn.loc.gov/n83143098
 https://lccn.loc.gov/n83157118
 https://lccn.loc.gov/n83157276
+https://lccn.loc.gov/n83163259
 https://lccn.loc.gov/n83163464
 https://lccn.loc.gov/n83163490
 https://lccn.loc.gov/n83169754
@@ -362,6 +383,7 @@ https://lccn.loc.gov/n84111106
 https://lccn.loc.gov/n84111107
 https://lccn.loc.gov/n84111109
 https://lccn.loc.gov/n84111468
+https://lccn.loc.gov/n84111527
 https://lccn.loc.gov/n84111528
 https://lccn.loc.gov/n84111529
 https://lccn.loc.gov/n84130288
@@ -408,6 +430,7 @@ https://lccn.loc.gov/n85328125
 https://lccn.loc.gov/n85328239
 https://lccn.loc.gov/n85343402
 https://lccn.loc.gov/n85346154
+https://lccn.loc.gov/n85346155
 https://lccn.loc.gov/n85346156
 https://lccn.loc.gov/n85346157
 https://lccn.loc.gov/n85372241
@@ -424,6 +447,7 @@ https://lccn.loc.gov/n86803717
 https://lccn.loc.gov/n86841337
 https://lccn.loc.gov/n86841345
 https://lccn.loc.gov/n86856616
+https://lccn.loc.gov/n86856619
 https://lccn.loc.gov/n86861706
 https://lccn.loc.gov/n87117336
 https://lccn.loc.gov/n87121665
@@ -440,6 +464,7 @@ https://lccn.loc.gov/n87843783
 https://lccn.loc.gov/n87846720
 https://lccn.loc.gov/n87846788
 https://lccn.loc.gov/n87869984
+https://lccn.loc.gov/n87889064
 https://lccn.loc.gov/n87889082
 https://lccn.loc.gov/n87889226
 https://lccn.loc.gov/n87889232
@@ -476,7 +501,9 @@ https://lccn.loc.gov/n93043604
 https://lccn.loc.gov/n95910961
 https://lccn.loc.gov/n96064671
 https://lccn.loc.gov/n97095398
+https://lccn.loc.gov/n97100514
 https://lccn.loc.gov/n98051723
+https://lccn.loc.gov/n98055856
 https://lccn.loc.gov/n98104138
 https://lccn.loc.gov/n99032396
 https://lccn.loc.gov/no00000047
@@ -501,6 +528,7 @@ https://lccn.loc.gov/no2001033871
 https://lccn.loc.gov/no2001044932
 https://lccn.loc.gov/no2001066195
 https://lccn.loc.gov/no2001082387
+https://lccn.loc.gov/no2001082392
 https://lccn.loc.gov/no2001102244
 https://lccn.loc.gov/no2001102245
 https://lccn.loc.gov/no2001102343
@@ -513,6 +541,7 @@ https://lccn.loc.gov/no2002027278
 https://lccn.loc.gov/no2002027591
 https://lccn.loc.gov/no2002027602
 https://lccn.loc.gov/no2002028278
+https://lccn.loc.gov/no2002031649
 https://lccn.loc.gov/no2002035234
 https://lccn.loc.gov/no2002035237
 https://lccn.loc.gov/no2002037343
@@ -552,12 +581,14 @@ https://lccn.loc.gov/no2003044510
 https://lccn.loc.gov/no2003049302
 https://lccn.loc.gov/no2003057716
 https://lccn.loc.gov/no2003057837
+https://lccn.loc.gov/no2003077617
 https://lccn.loc.gov/no2003078406
 https://lccn.loc.gov/no2003092443
 https://lccn.loc.gov/no2003095811
 https://lccn.loc.gov/no2003096817
 https://lccn.loc.gov/no2003098789
 https://lccn.loc.gov/no2003099245
+https://lccn.loc.gov/no2003099265
 https://lccn.loc.gov/no2003100605
 https://lccn.loc.gov/no2003102000
 https://lccn.loc.gov/no2003102008
@@ -567,6 +598,7 @@ https://lccn.loc.gov/no2003116537
 https://lccn.loc.gov/no2003122580
 https://lccn.loc.gov/no2003125900
 https://lccn.loc.gov/no2004002219
+https://lccn.loc.gov/no2004012895
 https://lccn.loc.gov/no2004015599
 https://lccn.loc.gov/no2004017268
 https://lccn.loc.gov/no2004017510
@@ -590,13 +622,17 @@ https://lccn.loc.gov/no2007048532
 https://lccn.loc.gov/no2007054333
 https://lccn.loc.gov/no2007054957
 https://lccn.loc.gov/no2007055276
+https://lccn.loc.gov/no2007056513
 https://lccn.loc.gov/no2007074795
 https://lccn.loc.gov/no2007092189
+https://lccn.loc.gov/no2007092193
 https://lccn.loc.gov/no2007115358
 https://lccn.loc.gov/no2007124954
 https://lccn.loc.gov/no2007126474
 https://lccn.loc.gov/no2007131958
 https://lccn.loc.gov/no2007132709
+https://lccn.loc.gov/no2008004352
+https://lccn.loc.gov/no2008020192
 https://lccn.loc.gov/no2008024308
 https://lccn.loc.gov/no2008026811
 https://lccn.loc.gov/no2008068732
@@ -662,7 +698,9 @@ https://lccn.loc.gov/no2012002414
 https://lccn.loc.gov/no2012018334
 https://lccn.loc.gov/no2012032091
 https://lccn.loc.gov/no2012042674
+https://lccn.loc.gov/no2012051179
 https://lccn.loc.gov/no2012051586
+https://lccn.loc.gov/no2012069701
 https://lccn.loc.gov/no2012071216
 https://lccn.loc.gov/no2012081730
 https://lccn.loc.gov/no2012085620
@@ -670,6 +708,7 @@ https://lccn.loc.gov/no2012085642
 https://lccn.loc.gov/no2012088123
 https://lccn.loc.gov/no2012088125
 https://lccn.loc.gov/no2012091167
+https://lccn.loc.gov/no2012107789
 https://lccn.loc.gov/no2012128049
 https://lccn.loc.gov/no2013014579
 https://lccn.loc.gov/no2013014601
@@ -683,6 +722,8 @@ https://lccn.loc.gov/no2014033258
 https://lccn.loc.gov/no2014036988
 https://lccn.loc.gov/no2014094334
 https://lccn.loc.gov/no2014094563
+https://lccn.loc.gov/no2014137125
+https://lccn.loc.gov/no2014157172
 https://lccn.loc.gov/no2014163554
 https://lccn.loc.gov/no2014164762
 https://lccn.loc.gov/no2014168385
@@ -702,6 +743,9 @@ https://lccn.loc.gov/no2015149512
 https://lccn.loc.gov/no2015150019
 https://lccn.loc.gov/no2015150026
 https://lccn.loc.gov/no2015150046
+https://lccn.loc.gov/no2016004645
+https://lccn.loc.gov/no2016004672
+https://lccn.loc.gov/no2016011381
 https://lccn.loc.gov/no2016035539
 https://lccn.loc.gov/no2016045155
 https://lccn.loc.gov/no2016050907
@@ -710,7 +754,10 @@ https://lccn.loc.gov/no2016065019
 https://lccn.loc.gov/no2016073819
 https://lccn.loc.gov/no2016079526
 https://lccn.loc.gov/no2016097186
+https://lccn.loc.gov/no2016136157
 https://lccn.loc.gov/no2016138143
+https://lccn.loc.gov/no2016168241
+https://lccn.loc.gov/no2017027058
 https://lccn.loc.gov/no2017027939
 https://lccn.loc.gov/no2017028098
 https://lccn.loc.gov/no2017028099
@@ -728,6 +775,7 @@ https://lccn.loc.gov/no90002372
 https://lccn.loc.gov/no90004062
 https://lccn.loc.gov/no90004264
 https://lccn.loc.gov/no90005141
+https://lccn.loc.gov/no90009493
 https://lccn.loc.gov/no90010229
 https://lccn.loc.gov/no90010347
 https://lccn.loc.gov/no90010359
@@ -752,6 +800,7 @@ https://lccn.loc.gov/no91007139
 https://lccn.loc.gov/no91016221
 https://lccn.loc.gov/no91018036
 https://lccn.loc.gov/no91020814
+https://lccn.loc.gov/no91020942
 https://lccn.loc.gov/no91022106
 https://lccn.loc.gov/no91023207
 https://lccn.loc.gov/no91024386
@@ -792,7 +841,7 @@ https://lccn.loc.gov/no93003738
 https://lccn.loc.gov/no93003744
 https://lccn.loc.gov/no93003746
 https://lccn.loc.gov/no93004125
-https://lccn.loc.gov/no93004125
+https://lccn.loc.gov/no93006190
 https://lccn.loc.gov/no93007700
 https://lccn.loc.gov/no93007880
 https://lccn.loc.gov/no93017025
@@ -863,10 +912,12 @@ https://lccn.loc.gov/no95006053
 https://lccn.loc.gov/no95008632
 https://lccn.loc.gov/no95010091
 https://lccn.loc.gov/no95011914
+https://lccn.loc.gov/no95012645
 https://lccn.loc.gov/no95014606
 https://lccn.loc.gov/no95015217
 https://lccn.loc.gov/no95017562
 https://lccn.loc.gov/no95017563
+https://lccn.loc.gov/no95017734
 https://lccn.loc.gov/no95017759
 https://lccn.loc.gov/no95018495
 https://lccn.loc.gov/no95018787
@@ -879,11 +930,15 @@ https://lccn.loc.gov/no95021798
 https://lccn.loc.gov/no95022469
 https://lccn.loc.gov/no95028475
 https://lccn.loc.gov/no95029249
+https://lccn.loc.gov/no95030421
 https://lccn.loc.gov/no95030693
 https://lccn.loc.gov/no95032188
 https://lccn.loc.gov/no95032189
 https://lccn.loc.gov/no95034426
 https://lccn.loc.gov/no95035015
+https://lccn.loc.gov/no95035279
+https://lccn.loc.gov/no95037743
+https://lccn.loc.gov/no95041419
 https://lccn.loc.gov/no95041450
 https://lccn.loc.gov/no95041452
 https://lccn.loc.gov/no95060600
@@ -970,6 +1025,7 @@ https://lccn.loc.gov/no98107867
 https://lccn.loc.gov/no98108774
 https://lccn.loc.gov/no98109985
 https://lccn.loc.gov/no98114096
+https://lccn.loc.gov/no98115021
 https://lccn.loc.gov/no98120087
 https://lccn.loc.gov/no98120089
 https://lccn.loc.gov/no98122140
@@ -1001,9 +1057,11 @@ https://lccn.loc.gov/no99037377
 https://lccn.loc.gov/no99042652
 https://lccn.loc.gov/no99046320
 https://lccn.loc.gov/no99047087
+https://lccn.loc.gov/no99050822
 https://lccn.loc.gov/no99051483
 https://lccn.loc.gov/no99051989
 https://lccn.loc.gov/no99051999
+https://lccn.loc.gov/no99055681
 https://lccn.loc.gov/no99057986
 https://lccn.loc.gov/no99058875
 https://lccn.loc.gov/no99059042
